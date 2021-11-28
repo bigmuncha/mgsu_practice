@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T21:25:42.908Z" agent="5.0 (X11)" version="15.8.6" etag="mKKxAY68Pz4YTfcFqml7" type="github"><diagram id="8GNSLDfLekw_l2h23WB7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-28T22:06:46.922Z" agent="5.0 (X11)" etag="RGFdOAobn6G1MGExxgkM" version="15.8.6" type="github">
+  <diagram id="8GNSLDfLekw_l2h23WB7" name="Page-1">
+    <mxGraphModel dx="1502" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-1" value="&lt;b&gt;Информационная система&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-2" value="Firebird" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-4" value="Clickhouse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="250" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-7" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BMNUB5FsLO9-KrKbTtjF-1" target="BMNUB5FsLO9-KrKbTtjF-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-9" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BMNUB5FsLO9-KrKbTtjF-1" target="BMNUB5FsLO9-KrKbTtjF-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-11" value="Например" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-12" value="Например" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-13" value="&lt;b&gt;Человек&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-14" value="&lt;b&gt;Пользователь&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-15" value="&lt;b&gt;Администратор&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-18" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BMNUB5FsLO9-KrKbTtjF-15" target="BMNUB5FsLO9-KrKbTtjF-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="520" as="sourcePoint" />
+            <mxPoint x="240" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-19" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BMNUB5FsLO9-KrKbTtjF-14" target="BMNUB5FsLO9-KrKbTtjF-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="340" as="sourcePoint" />
+            <mxPoint x="220" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-20" value="наследник" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BMNUB5FsLO9-KrKbTtjF-21" value="наследник" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="480" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
